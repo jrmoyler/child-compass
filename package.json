@@ -2,6 +2,7 @@
   "name": "child-care-compass",
   "private": true,
   "version": "1.0.0",
+  "type": "module",
   "workspaces": [
     "apps/api",
     "apps/web",
